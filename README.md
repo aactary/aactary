@@ -35,8 +35,8 @@ Trabalho com informática há 11 anos, tenho experiência em suporte técnico de
     - Site [tiqueteira.com](https://tiqueteira.com)
 
 - Projetos como Bolsista IFCE:
-    - [FutyPythonTrader](http://aactary.pythonanywhere.com/)
-    - SIQ-IFCE
+    - [FutyPythonTrader](http://aactary.pythonanywhere.com/) - Explorando mercado de apostas esportivas com Python & Machine Learning.
+    - SIQ-IFCE - Sistema Integrado de Questões do IFCE.
 
 ## Redes e Contato
 
