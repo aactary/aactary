@@ -30,11 +30,19 @@ Trabalho com informática há 11 anos, tenho experiência em suporte técnico de
   - Responsável pelo desenvolvimento de sites e sistemas utilizando PHP, JavaScript, HTML e CSS.
   - Criação de tabelas e gerenciamento de banco de dados
   - Integração com API's
+  - Principais projetos
+    - Site [facilita.vc](https://facilita.vc)
+    - Site [tiqueteira.com](https:tiqueteira.com)
+
+- Projetos como Bolsista IFCE:
+    - [FutyPythonTrader](http://aactary.pythonanywhere.com/)
+    - SIQ-IFCE
 
 ## Redes e Contato
 
-- Youtube: https://www.youtube.com/@codigosprojetos
-- Instagram: https://www.instagram.com/ari.cardoso.93
+- [Canal no Youtube](https://www.youtube.com/@codigosprojetos)
+- [Perfil no Instagram](https://www.instagram.com/ari.cardoso.93)
+- [E-mail para Contato](mailto:aact.ary@gmail.com)
 
 
 Fique à vontade para explorar meus projetos e entrar em contato caso queira discutir alguma oportunidade de colaboração ou apenas trocar conhecimentos!
