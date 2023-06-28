@@ -32,7 +32,7 @@ Trabalho com informática há 11 anos, tenho experiência em suporte técnico de
   - Integração com API's
   - Principais projetos
     - Site [facilita.vc](https://facilita.vc)
-    - Site [tiqueteira.com](https:tiqueteira.com)
+    - Site [tiqueteira.com](https://tiqueteira.com)
 
 - Projetos como Bolsista IFCE:
     - [FutyPythonTrader](http://aactary.pythonanywhere.com/)
