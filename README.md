@@ -23,21 +23,6 @@ Trabalho com informática há 11 anos, tenho experiência em suporte técnico de
 - Jquery
 - Bootstrap
 
-
-## Experiência Profissional
-
-- GrupoFive - Desenvolvedor Web (2021 - Atual)
-  - Responsável pelo desenvolvimento de sites e sistemas utilizando PHP, JavaScript, HTML e CSS.
-  - Criação de tabelas e gerenciamento de banco de dados
-  - Integração com API's
-  - Principais projetos
-    - Site [facilita.vc](https://facilita.vc)
-    - Site [tiqueteira.com](https://tiqueteira.com)
-
-- Projetos como Bolsista IFCE:
-    - [FutyPythonTrader](http://aactary.pythonanywhere.com/) - Explorando mercado de apostas esportivas com Python & Machine Learning.
-    - SIQ-IFCE - Sistema Integrado de Questões do IFCE.
-
 ## Redes e Contato
 
 - [Canal no Youtube](https://www.youtube.com/@codigosprojetos)
